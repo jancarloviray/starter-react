@@ -1,0 +1,48 @@
+{
+  "name": "starter-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Carlo Viray",
+  "license": "ISC",
+  "dependencies": {
+    "alt": "^0.16.4",
+    "babel": "^5.2.17",
+    "express": "^4.12.3",
+    "express-handlebars": "^2.0.1",
+    "flux": "^2.0.3",
+    "iso": "^4.1.0",
+    "lodash": "^3.8.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "superagent": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^5.2.17",
+    "babel-eslint": "^3.1.1",
+    "babel-loader": "^5.0.0",
+    "browser-sync": "^2.7.1",
+    "del": "^1.1.1",
+    "eslint": "^0.21.0",
+    "eslint-plugin-react": "^2.2.0",
+    "gulp": "^3.8.11",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-eslint": "^0.11.1",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.1.1",
+    "gulp-size": "^1.2.1",
+    "gulp-supervisor": "^0.1.2",
+    "gulp-util": "^3.0.4",
+    "gulp-webpack": "^1.4.0",
+    "gulp-webserver": "^0.9.1",
+    "proxy-middleware": "^0.11.1",
+    "react-hot-loader": "^1.2.7",
+    "stream-combiner2": "^1.0.2",
+    "webpack": "^1.9.2",
+    "webpack-dev-server": "^1.8.2",
+    "yargs": "^3.8.0"
+  }
+}
